@@ -18,7 +18,7 @@
 <p float="left">
 <img src="https://github.com/Bulzeye89/Pewlett-Hackard-Analysis/blob/main/EmployeeDB.png" 
 </p> 
-
+<br>
 
 With the provided csv files listed above, additional tables were created using pgAdmin.  These additional tables also included in the data folder of this repository are;
 - 
